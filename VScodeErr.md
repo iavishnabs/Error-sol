@@ -8,4 +8,11 @@
 * ### to exit from virtual environment
 
 deactivate
+
 ---
+
+* ### if virtual environment scripts is not running for activation in windows
+open windows powershell -> execute the command below:
+
+---
+Set-ExecutionPolicy Unrestricted -Force
