@@ -4,3 +4,8 @@
 ---
 "html.suggest.html5": true, <br>
 "emmet.includeLanguages": {"django-html": "html"},
+
+* ### to exit from virtual environment
+
+deactivate
+---
