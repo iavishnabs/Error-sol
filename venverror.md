@@ -3,5 +3,5 @@
 *	login to admin user
 *	open windows powershell:<br />
   
-   Get-ExecutionPolicy<br />
-   Set-ExecutionPolicy Unrestricted 
+Get-ExecutionPolicy<br />
+Set-ExecutionPolicy Unrestricted 
