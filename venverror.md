@@ -1,7 +1,7 @@
 
 # virtual env activation error
 *	login to admin user
-*	open windows powershell:
+*	open windows powershell:<br />
   
-  - Get-ExecutionPolicy
-  - Set-ExecutionPolicy Unrestricted 
+   Get-ExecutionPolicy<br />
+   Set-ExecutionPolicy Unrestricted 
